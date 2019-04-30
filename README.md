@@ -1,5 +1,5 @@
 # Code Converter
-App for convert any number and string to other format.
+App for convert any number and string to other format. You can check result the website in https://codeconverter.cf
 
 ## Converter Features
 ### Number Converter
