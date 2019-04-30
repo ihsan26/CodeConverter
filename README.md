@@ -1,5 +1,5 @@
 # Code Converter
-App for convert any number and string to other format. You can check result the website in https://codeconverter.cf
+App for convert any number and string to other format. You can check result the website in http://codeconverter.cf
 
 ## Converter Features
 ### Number Converter
@@ -19,6 +19,9 @@ App for convert any number and string to other format. You can check result the 
 1. String to Binary Converter
 2. Binary to String Converter
 3. Caesar Cipher Encryption
+4. SHA1 Hash Generator
+5. Base64 Encode
+6. Base64 Decode
 ## IP Address Tools
 1. IP Address Information
 2. IP Address Calculator
